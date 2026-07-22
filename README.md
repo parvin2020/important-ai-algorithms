@@ -92,7 +92,7 @@ Python >= 3.10
 
 ابتدا Repository را دریافت کنید:
 
-git clone https://github.com/username/important-ai-algorithms.git
+git clone https://github.com/parvin2020/important-ai-algorithms.git
 
 
 سپس:
